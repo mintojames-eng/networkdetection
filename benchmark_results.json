@@ -1,0 +1,56 @@
+[
+  {
+    "model": "Logistic Regression",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "train_time_sec": 0.004,
+    "latency_us": 0.06
+  },
+  {
+    "model": "Random Forest",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "train_time_sec": 0.109,
+    "latency_us": 6.01
+  },
+  {
+    "model": "SVM (RBF Kernel)",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "train_time_sec": 0.065,
+    "latency_us": 2.46
+  },
+  {
+    "model": "XGBoost",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "train_time_sec": 2.185,
+    "latency_us": 1.17
+  },
+  {
+    "model": "ANN (MLP: 64->32)",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "train_time_sec": 0.326,
+    "latency_us": 0.39
+  },
+  {
+    "model": "1D-CNN (Conv1D)",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "train_time_sec": 0.246,
+    "latency_us": 1.15
+  }
+]

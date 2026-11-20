@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs & temporary outputs
+*.log
+traffic_audit.log
+alerts.log
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
